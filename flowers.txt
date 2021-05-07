@@ -3,3 +3,5 @@ lotus
 marigold
 sunflower
 lily
+hibiscus
+china rose
